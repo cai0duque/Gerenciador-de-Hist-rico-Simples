@@ -1,4 +1,4 @@
-## </O código>
+# </O código>
 - Com o objetivo de demonstrar como utilizar Pilhas para transitar e armazenar dados em variáveis;
 
 ---
