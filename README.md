@@ -1,7 +1,3 @@
-# Avaliação
-- Este código todo é solução de uma avaliação da qual participei;
-- Foi criada pelo Sr. Professor Marcelo Yamamoto.
-
 ## </O código>
 - Com o objetivo de demonstrar como utilizar Pilhas para transitar e armazenar dados em variáveis;
 
